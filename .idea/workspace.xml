@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a321398-140f-4ede-9a79-5e42a94e3d03" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataPlot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataPlot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataPlot.py" afterDir="false" />
-    </list>
+    <list default="true" id="2a321398-140f-4ede-9a79-5e42a94e3d03" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757920656287</updated>
-      <workItem from="1757920657769" duration="10501000" />
+      <workItem from="1757920657769" duration="10834000" />
     </task>
     <servers />
   </component>
